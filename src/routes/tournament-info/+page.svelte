@@ -34,7 +34,7 @@
             <br>
             <p style="text-align:center; width:75%; margin:auto">
                 Registration cost will be <b>$125</b> for all teams, up to a maximum of 3 teams per school. 
-                Our team cap this year is 32 teams. Registration is first come, first serve, and will open on 
+                Our team cap this year is 36 teams. Registration is first come, first serve, and will open on 
                 <b>September 27 at 12:00 AM</b> for all teams. In the case of capacity, Virginia teams will be given priority off the waitlist.
                 <br><br>
             </p>
