@@ -26,22 +26,14 @@ commenting out the script did make the white screen go away :
         <br>
         <p style="font-size:medium; margin-top: 0.25rem;"></p>
 
-        <b>February 4-13, 2026</b>
+        <b>January 30, 2027</b>
         <br><br>
         <Button
-                text="Results"
-                url="https://www.duosmium.org/results/2026-02-04_virginia_tech_invitational_c/"
-                bgcolor="#FF5EC9"
-                txtcolor="black"
-                active={true}
-        />
-        <br>
-        <Button
-                text="Tests"
-                url="https://drive.google.com/drive/folders/1ZJfC7IBFYWdL6u1_AsnJjA3KU2XMeN5V?usp=sharing"
-                bgcolor="#FF5EC9"
-                txtcolor="black"
-                active={true}
+            text="Tournament Info"
+            url="/tournament-info"
+            bgcolor="#FF5EC9"
+            txtcolor="black"
+            active={true}
         />
     </div>
 </div>
