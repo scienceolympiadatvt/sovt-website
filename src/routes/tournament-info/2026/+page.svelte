@@ -9,20 +9,20 @@
 <div class='bg-image'></div>
 <div class="content">
     <div class="title">
-        <b>2027 Virginia Tech Invitational</b>
+        <b>2026 Virginia Tech Invitational</b>
     </div>
 
     <br>
     
     <div class="cards">
-        <Card title="Date" content="1/30/27"/>
+        <Card title="Date" content="1/31/26"/>
         <Card title="Division" content="C"/>
-        <Card title="Team # Cap" content="36"/>
+        <Card title="Team # Cap" content="32"/>
         <Card title="Cost" content="$125"/>
     </div>
     
     <div class="info">
-        <b>We're excited to announce the 2027 Virginia Tech Invitational! 
+        <b>We're excited to announce the 2026 Virginia Tech Invitational! 
             It will be held on Virginia Tech's campus in Blacksburg, Virginia 
             and is open to teams from Virginia and across the country.</b>
     
@@ -35,21 +35,20 @@
             <p style="text-align:center; width:75%; margin:auto">
                 Registration cost will be <b>$125</b> for all teams, up to a maximum of 3 teams per school. 
                 Our team cap this year is 32 teams. Registration is first come, first serve, and will open on 
-                <b>September 27 at 12:00 AM</b> for all teams. In the case of capacity, Virginia teams will be given priority off the waitlist.
+                <b>September 22</b> for all teams. In the case of capacity, Virginia teams will be given priority off the waitlist.
                 <br><br>
             </p>
     
             <p style="text-align:center; width:75%; margin:auto">
                 We welcome both veteran and new teams to gain competition experience at our tournament. If you are a Virginia school 
-                and qualify for the VASO Outreach Initiative, the registration fee will instead be $65. If you attended our virtual tournament
-                in January 2026, you qualify for our discount, so the registration fee will be $100. 
+                and qualify for the VASO Outreach Initiative, the registration fee will instead be $65. 
                 If your school otherwise has special circumstances that prevent you from paying the registration fees, 
                 please reach out to us at scienceolympiadvt@gmail.com
         
                 <br><br>
-                <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLSdsOB1a_FSQd7FJ_CmKx5HvRO1C0WF13nGMDTHX9d72wzEGQw/viewform?usp=header" active={false}/>
+                <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLSfIJPr-Qsn3Vzu81WvKvHpUXE2WlsvyCE-NhNRDihZq_-7uoA/viewform" active={false}/>
         
-                <b style="font-size:.75rem;">Registration will close on November 13 at 11:59 PM</b>
+                <b style="font-size:.75rem;">Registration closed November 7</b>
         
             </p>
         </div>
@@ -84,8 +83,8 @@
             <h1 class="subtitle" style="text-decoration-color: darkorange;">Early-Spring Regionals Prep</h1>
             <p style='text-align:left'>We are targeting our invitational to give teams the
                  best competitive start to the Regionals/States season. 
-                 Virginia teams can return for the Science Olympiad States competition
-                 on April 10th, 2027.</p>
+                 Virginia teams can return for our Virginia Tech Regional 
+                 on February 21st, 2026.</p>
 
             
                  <br>

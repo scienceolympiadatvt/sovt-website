@@ -14,6 +14,19 @@
     </div>
     <br>
 
+    <div class="section">
+        <h2>
+            2026 Division C Invitational
+        </h2>
+    
+        <p style="">
+            Despite it being online, we hope you enjoyed our virtual tournament!
+        </p>
+
+        <Button text="Results" url="https://www.duosmium.org/results/2026-02-04_virginia_tech_invitational_c/" active={true}/>
+        <br>
+        <Button text="Tests" url="https://drive.google.com/drive/folders/1ZJfC7IBFYWdL6u1_AsnJjA3KU2XMeN5V?usp=sharing" active={true}/>
+    </div>
 
     <div class="section">
         <h2>
