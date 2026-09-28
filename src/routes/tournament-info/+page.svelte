@@ -47,7 +47,7 @@
                 please reach out to us at scienceolympiadvt@gmail.com
         
                 <br><br>
-                <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLSdsOB1a_FSQd7FJ_CmKx5HvRO1C0WF13nGMDTHX9d72wzEGQw/viewform?usp=header" active={false}/>
+                <Button text="Register Here" url="https://docs.google.com/forms/d/e/1FAIpQLSdsOB1a_FSQd7FJ_CmKx5HvRO1C0WF13nGMDTHX9d72wzEGQw/viewform?usp=header" active={true}/>
         
                 <b style="font-size:.75rem;">Registration will close on November 13 at 11:59 PM</b>
         
