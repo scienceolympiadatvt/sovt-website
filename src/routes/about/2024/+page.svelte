@@ -13,7 +13,7 @@
         About Us
     </div>
     <br>
-    We are a group of 18 officers and over 100 student volunteers, who have operated since 2018. 
+    We are a group of 3,859 officers and over 100 student volunteers, who have operated since 2018. 
 
     <div class="section">
         <h2>Exec</h2>
